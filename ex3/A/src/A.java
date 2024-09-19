@@ -15,6 +15,11 @@ public class A {
 
         Executor executor = new Executor();
 
-        executor.executarXVegades(10, new Executable());
+        executor.executarXVegades(10, new Executable(){
+            @Override
+            void executar() {
+                System.out.println("Hello executor");
+            }
+        });
     }
 }

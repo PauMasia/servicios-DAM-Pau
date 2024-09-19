@@ -1,6 +1,18 @@
+import java.sql.SQLOutput;
+
 class Notification {
     void show(int num) {
-        if (num==1){
+        System.out.println("You have "+ num + " new messages");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+
+        Notification notification = new Notification(){
+            @Override
+            void show(int num) {
+                if (num==1){
             System.out.println("You have a new message");
 
         } else if (num>=100) {
@@ -8,13 +20,7 @@ class Notification {
         }else {
             System.out.println("You have " + num + " new messages");
         }
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-
-        Notification notification = new Notification();
+            }};
 
         notification.show(1);
         notification.show(10);
