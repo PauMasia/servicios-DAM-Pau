@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ex3/A/A.iml" filepath="$PROJECT_DIR$/ex3/A/A.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex3/B1/B1.iml" filepath="$PROJECT_DIR$/ex3/B1/B1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex3/B2/B2.iml" filepath="$PROJECT_DIR$/ex3/B2/B2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/A/A.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/A/A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/B1/B1.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/B1/B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/B2/B2.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/B2/B2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/Classes anonimes.iml" filepath="$PROJECT_DIR$/Classes anonimes/Classes anonimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expressions Lambda/Expressions Lambda.iml" filepath="$PROJECT_DIR$/Expressions Lambda/Expressions Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Servicios-Pau_Masia.iml" filepath="$PROJECT_DIR$/Servicios-Pau_Masia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex1/ex1.iml" filepath="$PROJECT_DIR$/ex1/ex1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex2/ex2.iml" filepath="$PROJECT_DIR$/ex2/ex2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex3/ex3.iml" filepath="$PROJECT_DIR$/ex3/ex3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex4/ex4.iml" filepath="$PROJECT_DIR$/ex4/ex4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex5/ex5.iml" filepath="$PROJECT_DIR$/ex5/ex5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex6/ex6.iml" filepath="$PROJECT_DIR$/ex6/ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex1_anonimes/ex1_anonimes.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex1_anonimes/ex1_anonimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expressions Lambda/ex1_lambda/ex1_lambda.iml" filepath="$PROJECT_DIR$/Expressions Lambda/ex1_lambda/ex1_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex2_anonimes/ex2_anonimes.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex2_anonimes/ex2_anonimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expressions Lambda/ex2_lambda/ex2_lambda.iml" filepath="$PROJECT_DIR$/Expressions Lambda/ex2_lambda/ex2_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/ex3_anonimes.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex3_anonimes/ex3_anonimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex4_anonimes/ex4_anonimes.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex4_anonimes/ex4_anonimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex5_anonimes/ex5_anonimes.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex5_anonimes/ex5_anonimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes anonimes/src/ex6_anonimes/ex6_anonimes.iml" filepath="$PROJECT_DIR$/Classes anonimes/src/ex6_anonimes/ex6_anonimes.iml" />
     </modules>
   </component>
 </project>

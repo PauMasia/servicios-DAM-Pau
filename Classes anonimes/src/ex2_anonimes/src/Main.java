@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 class Notification {
     void show(int num) {
         System.out.println("You have "+ num + " new messages");
