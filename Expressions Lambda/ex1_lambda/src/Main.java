@@ -1,5 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Main extends JFrame {
@@ -22,7 +23,12 @@ public class Main extends JFrame {
 
         JButton button3 = new JButton("Mega Button3");
         button3.setBounds(0,400, 400,200);
-        button3.addActionListener();
+        button3.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                System.out.println("S'ha polsat el botó Mega Button3");
+            }
+        });
         add(button3);
 
         setSize(600, 200);
